@@ -1,6 +1,4 @@
----
-title: 'Cookbook'
----
+# CookBook
 
 This is a script that takes the HCI Smart Phone Human Activity Dataset and cleans the dataset to aid in further analysis.  This cookbook will describe:
 

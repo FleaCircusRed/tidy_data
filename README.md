@@ -1,6 +1,4 @@
----
-title: "Readme"
----
+# Readme
 
 This readme will describe the requirements of run_analysis.R, how to run the file and load the outputted data back into R.  A description of the variables and their units and the transformations this script makes to the raw data is included in CookBook.md in this repo.
 
